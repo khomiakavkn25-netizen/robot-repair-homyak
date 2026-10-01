@@ -14,7 +14,7 @@ Adventure Game: Robot Repair (Unity Technologies), Unity 6.3, URP.
 • Заняття 3: проєкт запущено, перемкнуто набір артів
 
 
-# 10.01.2026
+# 01.10.2026
 
 # Лабораторна №3
 
